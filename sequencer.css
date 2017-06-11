@@ -1,0 +1,52 @@
+.seq-row span {
+	margin: 10px;
+	width: 50px;
+	float: left;
+	display:  block;
+	border: 1px solid #aaaaaa;
+	text-align: center;
+}
+
+.seq-row-space {
+	margin: 10px 10px 10px 70px !important;
+	width: 50px;
+	float: left;
+	display:  block;
+	border: 1px !important;
+}
+
+
+.note {
+	margin: 10px;
+	padding-top: 13px;
+	width: 50px;
+	height: 37px;
+	float: left;
+	display:  block;
+	border: 1px solid #aaaaaa;
+	text-align: center;
+}
+
+.inst {
+	margin: 10px 20px 10px 10px;
+	padding-top: 13px;
+	width: 100px;
+	height: 37px;
+	float: left;
+	display:  block;
+	border: 1px ;
+	background-color: #dd9966;
+	text-align: center;
+
+}
+
+.seq-area {
+	/*margin-left: 100px;*/
+}
+
+.clearfix:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
